@@ -6,7 +6,7 @@
   
   A loja faz uma reserva à transportadora, recebe um voucher com as informações de entrega e envia ao usuário.
   
-  Após análise, definimos que utilizaremos microserviços e separamos os dominios em serviços:
+  Após análise, definimos que utilizaremos microserviços e separamos os dominios em serviços, conforme a imagem abaixo:
   
   ![Finalidades](https://github.com/Microservices-Floricultura-Spring-Cloud/documentacao/blob/master/Finalidades.png)
   
