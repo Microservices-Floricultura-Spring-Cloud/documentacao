@@ -11,9 +11,7 @@
   ![Finalidades](https://github.com/Microservices-Floricultura-Spring-Cloud/documentacao/blob/master/Finalidades.png)
   
   
-# índice
-
-* [Finalidades](#finalidades)
+# Índice
 
 ## Objetivos
 
